@@ -1,0 +1,2 @@
+- Hi this is a Bergamota University Proyect this project i use to verify my learning about JSX
+- I hope you like it and thxs for the visit! :)
