@@ -2,6 +2,8 @@
 
 A developer passionate about creating efficient solutions.
 
+![Banner](https://github.com/HectorHernandezCuCi/HectorHernandezCuCi/blob/d818be9cbb0125b5ff1bcae8136fe3a703da0a05/Tech%20Consultant%20business%20Banner.png)
+
 ---
 
 ### 🚀 About Me:
@@ -21,6 +23,8 @@ A developer passionate about creating efficient solutions.
 
 ---
 
+![I love the computers](https://media.giphy.com/media/1Be4g2yeiJ1QfqaKvz/giphy.gif?cid=ecf05e474ymuyk58qv5xakdszuezaivdq7u8xllkhy37aizz&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 ### 📈 GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
@@ -36,3 +40,5 @@ A developer passionate about creating efficient solutions.
 ---
 
 Thanks for visiting my profile! 👋
+
+![I´ts over](https://media.giphy.com/media/l0ErLeqamV3UOARsA/giphy.gif?cid=790b76115ph0vdo6h1r0mbo8po6o7nmzmy6oys1fw48u3khu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
