@@ -10,17 +10,6 @@ A developer passionate about creating efficient solutions.
 - 🌱 Currently learning: **Next.js 14**, Firebase, Tailwind CSS
 - 🛠 Working on: **Tanda Fácil**, an app for managing payments and tandas (rotating savings)
 - 💡 Interests: Full-stack web development, UI/UX, and cibersecurity world
-
-### 🌄​ My Hobbies
-- 🏀 I love watching all sports but my favorite is basketball.
-  ![Dunk](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc2aTRudmliYmVvN2UzNGhoYmVzZWtzNjcwaTRnMTdrenNieWc0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otPoBgzJtqA75eymA/giphy.gif)
-- 👨🏻‍💻​ I think it's obvious but I love the world of software, creating and supporting my own or third-party projects.
-
-  ![penguin](https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif?cid=790b761175ryxh1inukhrdp9tc1yduj7shqj31tqtpgmypn4&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-- 🏋🏻‍♂️​ I love the gym
-
-  ![Gym](https://media.giphy.com/media/h8rJNj3l2ASj14RCxa/giphy.gif?cid=ecf05e47xo098y88iu2nf9t5p3splr6473u5eaxzz0brqpyf&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ---
 
 ### 🔧 Languages and Tools:
@@ -46,6 +35,19 @@ A developer passionate about creating efficient solutions.
 - 🔥 **[BergamotaRoutes](https://github.com/ICaesarI/BergamotaRoutes---TechConnect.git)**: It is a route optimizer for package drivers. [ in process ]
 - 🔥 **[Voto Digital](https://github.com/HectorHernandezCuCi/VotoDigitalMX.git)**: It is a platform to facilitate voting in the elections of my country Mexico, made in Android Studio. [ in process ]
 - 🌐 **[My Portfolio](https://hectorhernandezportfolio.netlify.app/)**
+
+---
+
+### 🌄​ My Hobbies
+- 🏀 I love watching all sports but my favorite is basketball.
+  ![Dunk](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc2aTRudmliYmVvN2UzNGhoYmVzZWtzNjcwaTRnMTdrenNieWc0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otPoBgzJtqA75eymA/giphy.gif)
+- 👨🏻‍💻​ I think it's obvious but I love the world of software, creating and supporting my own or third-party projects.
+
+  ![penguin](https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif?cid=790b761175ryxh1inukhrdp9tc1yduj7shqj31tqtpgmypn4&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+- 🏋🏻‍♂️​ I love the gym
+
+  ![Gym](https://media.giphy.com/media/h8rJNj3l2ASj14RCxa/giphy.gif?cid=ecf05e47xo098y88iu2nf9t5p3splr6473u5eaxzz0brqpyf&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
 
