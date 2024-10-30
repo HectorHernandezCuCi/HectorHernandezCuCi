@@ -15,9 +15,11 @@ A developer passionate about creating efficient solutions.
 - 🏀 I love watching all sports but my favorite is basketball.
   ![Dunk](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc2aTRudmliYmVvN2UzNGhoYmVzZWtzNjcwaTRnMTdrenNieWc0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otPoBgzJtqA75eymA/giphy.gif)
 - 👨🏻‍💻​ I think it's obvious but I love the world of software, creating and supporting my own or third-party projects.
+
   ![penguin](https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif?cid=790b761175ryxh1inukhrdp9tc1yduj7shqj31tqtpgmypn4&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 - 🏋🏻‍♂️​ I love the gym
+
   ![Gym](https://media.giphy.com/media/h8rJNj3l2ASj14RCxa/giphy.gif?cid=ecf05e47xo098y88iu2nf9t5p3splr6473u5eaxzz0brqpyf&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ---
 
