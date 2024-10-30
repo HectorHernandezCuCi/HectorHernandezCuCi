@@ -43,5 +43,6 @@ Thanks for visiting my profile! 👋
 
 ![I´ts over](https://media.giphy.com/media/l0ErLeqamV3UOARsA/giphy.gif?cid=790b76115ph0vdo6h1r0mbo8po6o7nmzmy6oys1fw48u3khu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=HectorHernandezCuCi.README.md)
+![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHectorHernandezCuCi%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
+
 
