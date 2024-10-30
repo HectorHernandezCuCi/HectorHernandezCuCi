@@ -11,6 +11,10 @@ A developer passionate about creating efficient solutions.
 - 🛠 Working on: **Tanda Fácil**, an app for managing payments and tandas (rotating savings)
 - 💡 Interests: Full-stack web development, UI/UX, and cibersecurity world
 
+### 🌄​ My Hobbies
+- 🏀 I love watching all sports but my favorite is basketball.
+  ![Dunk](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc2aTRudmliYmVvN2UzNGhoYmVzZWtzNjcwaTRnMTdrenNieWc0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otPoBgzJtqA75eymA/giphy.gif)
+
 ---
 
 ### 🔧 Languages and Tools:
