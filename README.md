@@ -42,3 +42,11 @@ A developer passionate about creating efficient solutions.
 Thanks for visiting my profile! 👋
 
 ![I´ts over](https://media.giphy.com/media/l0ErLeqamV3UOARsA/giphy.gif?cid=790b76115ph0vdo6h1r0mbo8po6o7nmzmy6oys1fw48u3khu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
