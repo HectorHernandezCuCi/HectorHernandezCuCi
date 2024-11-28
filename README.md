@@ -2,7 +2,7 @@
 
 A developer passionate about creating efficient solutions.
 
-![Banner](Black and White Modern Geometric Animation Youtube Channel Intro.gif)
+  ![Banner](VideoBanner.gif)
 
 ---
 
