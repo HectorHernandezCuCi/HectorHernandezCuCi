@@ -28,23 +28,11 @@ A developer passionate about creating efficient solutions.
 - 🔥 **[Tanda Fácil](https://github.com/HectorHernandezCuCi/TandaFacil.git)**: A payment management system for tandas using Next.js and Firebase.
 
 #### ✅ **Finished**
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">BergamotaRoutes---TechConnect</h3>
-<div align="center">
-<a href="https://github.com/ICaesarI/BergamotaRoutes---TechConnect" target="_blank"><img src="ProyectsImg/BergamotaRoutes---TechConnect.png" width="400" alt="BergamotaRoutes---TechConnect"></a>
-<p>
-<a href="https://github.com/ICaesarI/BergamotaRoutes---TechConnect" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/-Demo-ff0000?style=for-the-badge&color=ff0000&logoColor=white" alt="Demo">
-</a>
-</p>
-<p>Route optimization for drivers, integrated with APIs and developed in Next.js. Includes real-time data validation and management.</p>
-</div>
-</td>
+### 🏆 [Mi Proyecto Increíble](https://github.com/tu-usuario/mi-proyecto-increible)
+
+[![Mi Proyecto](ruta/a/imagen-con-marco.png)](https://github.com/tu-usuario/mi-proyecto-increible)
+
+Descripción breve del proyecto: Este proyecto es una solución innovadora para resolver problemas del mundo real. Incluye características como [característica principal] y [tecnologías utilizadas].
 
 
 - 🌐 **[My Portfolio](https://hectorhernandezportfolio.netlify.app/)**
