@@ -29,11 +29,12 @@ A developer passionate about creating efficient solutions.
 
 #### ✅ **Finished**
 
-| [![BergamotaRoutes](BergamotaRoutes.webp)](https://github.com/ICaesarI/BergamotaRoutes---TechConnect) | [![Otro Proyecto](OtroProyecto.webp)](https://github.com/ICaesarI/OtroProyecto) | [![Tercer Proyecto](TercerProyecto.webp)](https://github.com/ICaesarI/TercerProyecto) |
+| [![BergamotaRoutes](BergamotaRoutes.webp)](https://github.com/ICaesarI/BergamotaRoutes---TechConnect) | [![VotoDigital](img.png)](https://github.com/HectorHernandezCuCi/VotoDigitalMX) |
 |:---------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
-| **[BergamotaRoutes](https://github.com/ICaesarI/BergamotaRoutes---TechConnect)**                    | **[Otro Proyecto](https://github.com/ICaesarI/OtroProyecto)**                    | **[Tercer Proyecto](https://github.com/ICaesarI/TercerProyecto)**                  |
-| _Optimización de rutas y seguimiento en tiempo real._                                              | _Descripción breve del segundo proyecto._                                       | _Descripción breve del tercer proyecto._                                           |
-| ![TypeScript](https://img.icons8.com/color/20/000000/typescript.png) 97.5%                          | ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) 85%        | ![Python](https://img.icons8.com/color/20/000000/python.png) 90%                   |
+| **[BergamotaRoutes](https://github.com/ICaesarI/BergamotaRoutes---TechConnect)**                    | **[VotoDigital](https://github.com/HectorHernandezCuCi/VotoDigitalMX)**                    |  |
+| _Optimización de rutas y seguimiento en tiempo real._                                              | _This is a project to country votation
+
+_                                       |
 
 
 - 🌐 **[My Portfolio](https://hectorhernandezportfolio.netlify.app/)**
