@@ -30,9 +30,17 @@ A developer passionate about creating efficient solutions.
 #### ✅ **Finished**
 ### 🏆 [Mi Proyecto Increíble](https://github.com/tu-usuario/mi-proyecto-increible)
 
-[![Mi Proyecto](ruta/a/imagen-con-marco.png)](https://github.com/tu-usuario/mi-proyecto-increible)
+[![Mi Proyecto](BergamotaRoutes.webp)](https://github.com/ICaesarI/BergamotaRoutes---TechConnect)
 
-Descripción breve del proyecto: Este proyecto es una solución innovadora para resolver problemas del mundo real. Incluye características como [característica principal] y [tecnologías utilizadas].
+🚚 BergamotaRoutes
+BergamotaRoutes is a powerful platform for route optimization and real-time tracking, designed to make logistics smarter and more efficient. 
+Languages
+## 🚀 Lenguajes del Proyecto
+
+| ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) **TypeScript** | ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS** | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript** |
+|:----------------------------------------------------------------------------------:|:------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+| 97.5%                                                                              | 2.4%                                                         | 0.1%                                                                     |
+
 
 
 - 🌐 **[My Portfolio](https://hectorhernandezportfolio.netlify.app/)**
