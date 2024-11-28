@@ -22,18 +22,16 @@ A developer passionate about creating efficient solutions.
 
 ---
 
-![I love the computers](https://media.giphy.com/media/1Be4g2yeiJ1QfqaKvz/giphy.gif?cid=ecf05e474ymuyk58qv5xakdszuezaivdq7u8xllkhy37aizz&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-### 📈 GitHub Stats:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
----
-
 ### 🧑‍💻 Featured Projects:
-- 🔥 **[Tanda Fácil](https://github.com/HectorHernandezCuCi/TandaFacil.git)**: A payment management system for tandas using Next.js and Firebase. [ in process ]
-- 🔥 **[BergamotaRoutes](https://github.com/ICaesarI/BergamotaRoutes---TechConnect.git)**: It is a route optimizer for package drivers. [ in process ]
-- 🔥 **[Voto Digital](https://github.com/HectorHernandezCuCi/VotoDigitalMX.git)**: It is a platform to facilitate voting in the elections of my country Mexico, made in Android Studio. [ in process ]
+
+#### 🚧 **In Process**
+- 🔥 **[Tanda Fácil](https://github.com/HectorHernandezCuCi/TandaFacil.git)**: A payment management system for tandas using Next.js and Firebase.
+
+#### ✅ **Finished**
+- ![Finished](https://img.shields.io/badge/Status-Finished-brightgreen) 🔥 **[BergamotaRoutes](https://github.com/ICaesarI/BergamotaRoutes---TechConnect.git)**: A route optimizer for package drivers.
+- ![Finished](https://img.shields.io/badge/Status-Finished-brightgreen) 🔥 **[Voto Digital](https://github.com/HectorHernandezCuCi/VotoDigitalMX.git)**: A platform to facilitate voting in the elections of my country, Mexico, made in Android Studio.
+
+
 - 🌐 **[My Portfolio](https://hectorhernandezportfolio.netlify.app/)**
 
 ---
