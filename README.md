@@ -28,13 +28,10 @@ A developer passionate about creating efficient solutions.
 - 🔥 **[Tanda Fácil](https://github.com/HectorHernandezCuCi/TandaFacil.git)**: A payment management system for tandas using Next.js and Firebase.
 
 #### ✅ **Finished**
+| ![BergamotaRoutes](BergamotaRoutes.webp) [BergamotaRoutes](https://github.com/ICaesarI/BergamotaRoutes---TechConnect) | ![VotoDigital](img.png) [VotoDigital](https://github.com/HectorHernandezCuCi/VotoDigitalMX) |
+|:---------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
+| **BergamotaRoutes**<br>_Optimización de rutas y seguimiento en tiempo real._                           | **VotoDigital**<br>_This is a project to country votation._                       |
 
-| [![BergamotaRoutes](BergamotaRoutes.webp)](https://github.com/ICaesarI/BergamotaRoutes---TechConnect) | [![VotoDigital](img.png)](https://github.com/HectorHernandezCuCi/VotoDigitalMX) |
-|:---------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
-| **[BergamotaRoutes](https://github.com/ICaesarI/BergamotaRoutes---TechConnect)**                    | **[VotoDigital](https://github.com/HectorHernandezCuCi/VotoDigitalMX)**                    |  |
-| _Optimización de rutas y seguimiento en tiempo real._                                              | _This is a project to country votation
-
-_                                       |
 
 
 - 🌐 **[My Portfolio](https://hectorhernandezportfolio.netlify.app/)**
