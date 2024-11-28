@@ -2,7 +2,7 @@
 
 A developer passionate about creating efficient solutions.
 
-![Banner](https://github.com/HectorHernandezCuCi/HectorHernandezCuCi/blob/d818be9cbb0125b5ff1bcae8136fe3a703da0a05/Tech%20Consultant%20business%20Banner.png)
+![Banner](Black and White Modern Geometric Animation Youtube Channel Intro.gif)
 
 ---
 
