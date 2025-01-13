@@ -28,9 +28,10 @@ A developer passionate about creating efficient solutions.
 - 🔥 **[Tanda Fácil](https://github.com/HectorHernandezCuCi/TandaFacil.git)**: A payment management system for tandas using Next.js and Firebase.
 
 #### ✅ **Finished**
-| <a href="https://github.com/ICaesarI/BergamotaRoutes---TechConnect"><img src="BergamotaRoutes.webp" width="200" height="200" /></a>  | <a href="https://github.com/HectorHernandezCuCi/VotoDigitalMX"><img src="img.png" width="200" height="200" /></a> |
-|:---------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
-| **BergamotaRoutes**<br>_Route optimization and real-time tracking._                                   | **VotoDigital**<br>_This is a project for country-wide voting._                  |
+| <a href="https://github.com/ICaesarI/BergamotaRoutes---TechConnect"><img src="BergamotaRoutes.webp" width="200" height="200" /></a>  | <a href="https://github.com/HectorHernandezCuCi/VotoDigitalMX"><img src="img.png" width="200" height="200" /></a> | <a href="https://github.com/HectorHernandezCuCi/educmax"><img src="educmaxIcon.png" width="200" height="200" /></a> |
+|:---------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
+| **BergamotaRoutes**<br>_Route optimization and real-time tracking._                                   | **VotoDigital**<br>_This is a project for country-wide voting._                  | **EducMax**<br>_Educational platform._         |
+
 
 
 - 🌐 **[My Portfolio](https://hectorhernandezportfolio.netlify.app/)**
